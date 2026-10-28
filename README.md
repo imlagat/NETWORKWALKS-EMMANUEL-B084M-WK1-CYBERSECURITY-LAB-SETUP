@@ -1,14 +1,14 @@
 # NETWORKWALKS-EMMANUEL-B084M-WK1-CYBERSECURITY-LAB-SETUP
 This is  hacking lab setup for my cybersecurity internship
 
-Installing Kali Linux on VirtualBox on macOS
+**Installing Kali Linux on VirtualBox on macOS**
 This README documents how to set up Kali Linux in a VirtualBox virtual
 machine on a Mac for learning Linux, networking, and cybersecurity
 fundamentals.
 Safety: Use Kali Linux only on systems and networks you own or
 have explicit permission to test.
 
-1. Prerequisites
+**1. Prerequisites**
 - A Mac with enough free disk space and memory.
 - Oracle VirtualBox.
 - The official Kali Linux ISO.
